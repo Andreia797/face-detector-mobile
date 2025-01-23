@@ -19,4 +19,4 @@ Este projeto é uma aplicação móvel desenvolvida em Java para Android, que im
 1. Clone o repositório:  
 
 ```bash  
-git clone https://github.com/seu-usuario/face-detector-mobile.git
+git clone https://github.com/Andreia797/face-detector-mobile.git
